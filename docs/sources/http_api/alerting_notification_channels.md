@@ -180,7 +180,7 @@ Content-Type: application/json
 
 ## Create notification channel
 
-You can find the full list of [supported notifiers](/alerting/notifications/#all-supported-notifier) on the alert notifiers page.
+You can find the full list of [supported notifiers](/docs/grafana/latest/alerting/notifications/#list-of-supported-notifiers) on the alert notifiers page.
 
 `POST /api/alert-notifications`
 
